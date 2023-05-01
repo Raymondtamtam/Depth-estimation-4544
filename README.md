@@ -4,8 +4,11 @@
 dataset download from here
 https://diode-dataset.org/
 
-ROS code 
-download model from:
+
+
+
+ROS code download model from monodepth
+
 
 
 
